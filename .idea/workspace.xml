@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d78a7d3d-4d83-4f60-a75a-9b7769145286" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="232" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cDcr8nhLaCFiiHBWa0EMtOwTI1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ulyag\Desktop\РГР\src\com\company\enemies" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/company" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="com.company.TheDungeon" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.TheDungeon" />
+      <module name="РГР" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.company.TheDungeon" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d78a7d3d-4d83-4f60-a75a-9b7769145286" name="Default Changelist" comment="" />
+      <created>1590066801746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590066801746</updated>
+      <workItem from="1590066809339" duration="570000" />
+      <workItem from="1590595274259" duration="13298000" />
+      <workItem from="1590654613113" duration="9000" />
+      <workItem from="1590654635744" duration="2124000" />
+      <workItem from="1590662731162" duration="2378000" />
+      <workItem from="1590667948935" duration="5557000" />
+      <workItem from="1590673550774" duration="543000" />
+      <workItem from="1590674770007" duration="1295000" />
+      <workItem from="1599832175349" duration="812000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="173" key="GridCell.Tab.0.bottom" timestamp="1599832990229">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="173" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599832990229" />
+    <state width="1493" height="173" key="GridCell.Tab.0.center" timestamp="1599832990229">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="173" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599832990229" />
+    <state width="1493" height="173" key="GridCell.Tab.0.left" timestamp="1599832990229">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="173" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599832990229" />
+    <state width="1493" height="173" key="GridCell.Tab.0.right" timestamp="1599832990229">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="173" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599832990229" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$com_company_TheDungeon.ic" NAME="com.company.TheDungeon Coverage Results" MODIFIED="1590651924319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
